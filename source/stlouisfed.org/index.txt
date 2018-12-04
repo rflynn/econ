@@ -1,0 +1,27 @@
+series, title, unit, is_seasonadj, frequency, startdate
+A191RO1Q156NBEA Real Gross Domestic Product, Percent Change from Quarter One Year Ago, Seasonally Adjusted, Quarterly, 1948-01-01
+A939RX0Q048SBEA Real gross domestic product per capita, Chained 2012 Dollars, Seasonally Adjusted Annual Rate, Quarterly, 1947-01-01
+AMBNS           St. Louis Adjusted Monetary Base, Billions of Dollars, Not Seasonally Adjusted, Monthly, 1918-01-01
+ASTDSL          All Sectors; Total Debt Securities; Liability, Millions of Dollars, Not Seasonally Adjusted, Quarterly, 1945-01-01
+ASTLL           All Sectors; Total Loans; Liability, Millions of Dollars, Not Seasonally Adjusted, Quarterly, 1945-10-01
+BOGMBASE        Monetary Base; Total, Millions of Dollars, Not Seasonally Adjusted, Monthly, 1959-01-01
+CPIAUCSL        Consumer Price Index for All Urban Consumers: All Items, Index 1982-1984=100, Seasonally Adjusted, Monthly, 1947-01-01
+DFF             Effective Federal Funds Rate, Percent, Not Seasonally Adjusted, Daily, 1954-07-01
+DGS3            3-Year Treasury Constant Maturity Rate, Percent, Not Seasonally Adjusted, Daily, 1962-01-01
+DGS5            5-Year Treasury Constant Maturity Rate, Percent, Not Seasonally Adjusted, Daily, 1962-01-01
+DGS7            7-Year Treasury Constant Maturity Rate, Percent, Not Seasonally Adjusted, Daily, 1969-07-01
+DGS10           10-Year Treasury Constant Maturity Rate, Percent, Not Seasonally Adjusted, Daily, 1962-01-01
+FEDFUNDS        Effective Federal Funds Rate, Percent, Not Seasonally Adjusted, Monthly, 1954-07-01
+FYFSGDA188S     Federal Surplus or Deficit [-] as Percent of Gross Domestic Product, Percent of GDP, Not Seasonally Adjusted, Annual, 1929-01-01
+FYGDP           Gross Domestic Product, Billions of Dollars, Not Seasonally Adjusted, Annual, 1930-06-30
+FYPUGDA188S     Gross Federal Debt Held by the Public as Percent of Gross Domestic Product, Percent of GDP, Not Seasonally Adjusted, Annual, 1939-01-01
+GDP             Gross Domestic Product, Billions of Dollars, Seasonally Adjusted Annual Rate, Quarterly, 1947-01-01
+GDPCA           Real Gross Domestic Product, Billions of Chained 2012 Dollars, Not Seasonally Adjusted, Annual, 1929-01-01
+GFDEGDQ188S     Federal Debt: Total Public Debt as Percent of Gross Domestic Product, Percent of GDP, Seasonally Adjusted, Quarterly, 1966-01-01
+GFDGDPA188S     Gross Federal Debt as Percent of Gross Domestic Product, Percent of GDP, Not Seasonally Adjusted, Annual, 1939-01-01
+GS1             1-Year Treasury Constant Maturity Rate, Percent, Not Seasonally Adjusted, Monthly, 1953-04-01
+M13009USM156NNBR    "Discount Rates, Federal Reserve Bank of New York for United States", Percent, Not Seasonally Adjusted, Monthly, 1914-11-01
+M1NS            M1 Money Stock, Billions of Dollars, Not Seasonally Adjusted, Monthly, 1959-01-01
+TDSP            Household Debt Service Payments as a Percent of Disposable Personal Income, Percent, Seasonally Adjusted, Quarterly, 1980-01-01
+UNRATE          Civilian Unemployment Rate, Percent, Seasonally Adjusted, Monthly, 1948-01-01
+UNRATENSA       Civilian Unemployment Rate, Percent, Not Seasonally Adjusted, Monthly, 1948-01-01
